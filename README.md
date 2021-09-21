@@ -19,3 +19,5 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-333?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/abdul-gafur-taramov-43909021b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=Instagram)](https://www.instagram.com/__this_is__me___?r=nametag)
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=Telegram)](https://t.me/sovarim)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sovarim&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
